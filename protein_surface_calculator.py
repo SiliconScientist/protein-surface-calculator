@@ -1,6 +1,3 @@
-# Hell
-
-
 import os
 import freesasa
 import numpy as np
